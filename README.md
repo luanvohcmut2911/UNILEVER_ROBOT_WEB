@@ -8,11 +8,11 @@
     4. /stop_motor: stop motor
 
 ## HOW TO RUN 
-Clone repository
-git clone https://github.com/luanvohcmut2911/UNILEVER_ROBOT_WEB.git
-Run server in localhost
-cd ./backend
-npm start
-Run client in localhost
-cd ./web-demo
-npm start
+## Clone repository
+    git clone https://github.com/luanvohcmut2911/UNILEVER_ROBOT_WEB.git
+## Run server in localhost
+    cd ./backend
+    npm start
+## Run client in localhost
+    cd ./web-demo
+    npm start
