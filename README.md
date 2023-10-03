@@ -12,7 +12,9 @@
     git clone https://github.com/luanvohcmut2911/UNILEVER_ROBOT_WEB.git
 ## Run server in localhost
     cd ./backend
+    npm i
     npm start
 ## Run client in localhost
     cd ./web-demo
+    npm i
     npm start
